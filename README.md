@@ -39,7 +39,7 @@ These data streams are sent to **Kafka topics**, consumed by **Spark Structured 
 ## 🏗️ System Architecture
 
 ## Architecture Diagram
-![Architecture Diagram](architecture.jpeg)
+![Architecture Diagram](architecture.png)
 
 ```plaintext
 +-------------------+
